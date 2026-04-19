@@ -32,7 +32,7 @@ This project focuses on analyzing call center data to track performance metrics 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard.png.png)
 
 
 ## 🚀 Learning Outcome
