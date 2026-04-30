@@ -34,6 +34,10 @@ This project focuses on analyzing call center data to track performance metrics 
 
 ![Dashboard Preview](dashboard.png.png)
 
+## 🎥 Project Demo Video
+
+[Click here to watch the dashboard demo](https://drive.google.com/file/d/1CzbDkyRGBQ_YTuigXWCAD3MD9RU3ftgI/view?usp=sharing)
+
 
 ## 🚀 Learning Outcome
 
